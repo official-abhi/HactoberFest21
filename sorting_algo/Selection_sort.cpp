@@ -1,5 +1,4 @@
-  SELECTION_SORT.CPP 
-@@ -0,0 +1,42 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 void selection_sort(vector<int>& arr)
